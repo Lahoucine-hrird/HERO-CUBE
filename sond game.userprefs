@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\levellwdd.cs">
+    <Files>
+      <File FileName="Assets\script\coin.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\spoinprbm.cs" Line="15" Column="2" />
+      <File FileName="Assets\script\movplat.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\DOKHOLLBAB.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\buttonkhoroj.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\claver.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\codepnl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\fonctoinmenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\cotrolplayer.cs" Line="199" Column="23" />
+      <File FileName="Assets\script\menupins.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\levellwdd.cs" Line="22" Column="3" />
+      <File FileName="Assets\script\enmybom.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\enmymov.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\levels.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\porte.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\jadibiya.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\cour.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\butbab3.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\lelevs.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ScrollSnapRect.cs" Line="1" Column="1" />
+      <File FileName="Assets\keyscrop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Virtual Joystick Pack\Scripts\Base\Joystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Virtual Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Virtual Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\jscontre.cs" Line="30" Column="11" />
+      <File FileName="..\balle color\Assets\script\FixedJoystick.cs" Line="1" Column="1" />
+      <File FileName="..\balle color\Assets\script\playermov.cs" Line="607" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\unity projet\sond game\Assets\script\cotrolplayer.cs" line="465" column="1" />
+      <Breakpoint file="D:\unity projet\sond game\Assets\script\cotrolplayer.cs" line="486" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
